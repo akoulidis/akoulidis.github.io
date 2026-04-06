@@ -6,8 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Alexis Koulidis is a Postdoctoral Researcher at Delft University of Technology in the Netherlands. His work focuses on drilling engineering and subsurface energy systems, with particular emphasis on geothermal energy and underground thermal energy storage. He received his Ph.D. in Energy Resources and Petroleum Engineering from King Abdullah University of Science and Technology (KAUST) in 2023. 
 
-Alexis is currently a postdoctoral researcher at Delft University of Technology. He is a research scientist and technology-driven subsurface engineer with 8 years of international experience in integrating engineering knowledge, experimental/computational design, analytical modeling, and data analysis to deliver solutions in drilling engineering and subsurface energy systems. He has authored 24 journal and technical papers, 1 book chapter and he was a finalist in the ADIPEC awards. In 2024, He was a scientific committee member of the ICDP Workshop UrbEnLab at TU Delft to support a 4.5 km monitoring well.
+His research interests include well integrity, thermo-hydro-mechanical behaviour of subsurface systems, and the development of experimental frameworks for complex subsurface applications.
+
+He has over 8 years of international experience across academia and industry, integrating experimental design, computational modelling, and data analysis to address engineering challenges in subsurface systems. He has authored more than 24 journal and technical publications and one book chapter, and was a finalist in the ADIPEC Awards.
+
+Furthermore, he served as a scientific committee member of the ICDP Workshop UrbEnLab at TU Delft, contributing to the development of a 4.5 km deep monitoring well.
 
 Education
 ======
