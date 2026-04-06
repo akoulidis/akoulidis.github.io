@@ -26,7 +26,7 @@ Five universities have utilized it, with up to 70 licenses functioning per day.
 Drilling Engineering class in the Master’s program in Energy Resources and Petroleum Engineering.
 
 ---
-## Guest Lectures & Training <span style="float:right;">August 2019 – November 2022</span>
+### Guest Lectures & Training <span style="float:right;">August 2019 – November 2022</span>
 
 - **PAYZONE Drilling Simulator Training**  
   Delivered lectures and hands-on training sessions at multiple international universities  
