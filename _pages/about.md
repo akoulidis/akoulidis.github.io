@@ -10,6 +10,8 @@ Alexis Koulidis is a Postdoctoral Researcher at Delft University of Technology i
 
 His research interests include well integrity, thermo-hydro-mechanical behaviour of subsurface systems, and the development of experimental frameworks for complex subsurface applications.
 
+His research focuses on drilling engineering and subsurface energy systems, with particular emphasis on drilling mechanics, well integrity, wellbore strengthening, and the development of advanced downhole tools. His work combines large-scale experimental investigations, novel sensing technologies, and data-driven approaches, including artificial intelligence and camera-based drilling analytics.
+
 He has over 8 years of international experience across academia and industry, integrating experimental design, computational modelling, and data analysis to address engineering challenges in subsurface systems. He has authored more than 24 journal and technical publications and one book chapter, and was a finalist in the ADIPEC Awards.
 
 Furthermore, he served as a scientific committee member of the ICDP Workshop UrbEnLab at TU Delft, contributing to the development of a 4.5 km deep monitoring well.
