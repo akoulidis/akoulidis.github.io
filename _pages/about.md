@@ -30,32 +30,27 @@ Selected Publications
 
 1. **Koulidis, A.**, Bloemendal, M., & Vardon, P. J. (2026)  
    *Experimental Assessment of Sealing Integrity of Grouts and Clay Pellets Under Thermal Cycles Representative of HT-ATES Operation.*  
-   **Geothermal Energy**.  
-   DOI: https://doi.org/10.1186/s40517-026-00374-9
+   **Geothermal Energy**. https://doi.org/10.1186/s40517-026-00374-9
 
 2. Bruhn, D., Abels, H., Barnhoorn, A., ..., **Koulidis, A.**, et al. (2026)  
    *An Urban Energy Laboratory for Monitoring and Better Understanding of Subsurface Processes Related to Low-Enthalpy Geothermal Heat Production – UrbEnLab.*  
-   **Scientific Drilling**
+   **Scientific Drilling**. https://doi.org/10.5194/sd-35-83-2026
 
 3. **Koulidis, A.**, Grubben, T. M., van der Schans, M., Bloemendal, M., & Vardon, P. J. (2025)  
    *The Impact of Bridging Additives on Wellbore Strengthening in Shallow Unconsolidated Formations.*  
-   **Groundwater Journal**.  
-   DOI: https://doi.org/10.1111/gwat.13455
+   **Groundwater Journal**. https://doi.org/10.1111/gwat.13455
 
 4. **Koulidis, A.**, Ooi, G., & Ahmed, S. (2024)  
    *Application of Artificial Intelligence to Predict Rock Strength and Drilling Efficiency Using In-Cutter Sensing Data and Vibration Modes.*  
-   **Journal of Petroleum Exploration and Production Technology**.  
-   DOI: https://doi.org/10.1007/s13202-024-01823-6
+   **Journal of Petroleum Exploration and Production Technology**. https://doi.org/10.1007/s13202-024-01823-6
 
 5. Skenderija, J., **Koulidis, A.**, Sorgun, M., & Ahmed, S. (2024)  
    *Improved Cuttings Transport in Horizontal Wells: An Experimental Study Using a Clamp-on Tool for Efficient Hole Cleaning.*  
-   **Arabian Journal for Science and Engineering**, 49:9027–9042.  
-   DOI: https://doi.org/10.1007/s13369-024-09006-5
+   **Arabian Journal for Science and Engineering**, 49:9027–9042. https://doi.org/10.1007/s13369-024-09006-5
 
 6. **Koulidis, A.**, Pelfrene, G., & Ahmed, S. (2024)  
    *Experimental Investigation of Rock Cutting Process and Derivation of 3D Spatial Distribution of the Formation Strength Using In-Cutter Sensing.*  
-   **Journal of Petroleum Exploration and Production Technology**, 14:365–380.  
-   DOI: https://doi.org/10.1007/s13202-023-01712-4
+   **Journal of Petroleum Exploration and Production Technology**, 14:365–380. https://doi.org/10.1007/s13202-023-01712-4
 
 ## Conference Papers
 
@@ -89,28 +84,25 @@ Selected Publications
 
 8. **Koulidis, A.**, Skenderija, J., & Ahmed, S. (2023)  
    *Drilling Monitoring System: Mud Motor Condition and Performance Evaluation.*  
-   In: **SPE Middle East Oil, Gas and Geosciences Show**.  
-   SPE-213422-MS.  
-   DOI: https://doi.org/10.2118/213422-MS
+   In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213422-MS.  
+   https://doi.org/10.2118/213422-MS
 
 9. Skenderija, J., **Koulidis, A.**, Sanchez, D., & Ahmed, S. (2023)  
    *Advanced Hole Cleaning in Horizontal Wells: Experimental Investigation Supported by a Downhole Clamp-on Tool.*  
-   In: **SPE Middle East Oil, Gas and Geosciences Show**.  
-   SPE-213675-MS.  
-   DOI: https://doi.org/10.2118/213675-MS
+   In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213675-MS.  
+   https://doi.org/10.2118/213675-MS
 
 10. **Koulidis, A.**, & Ahmed, S. (2023)  
     *Advisory System for Drilling Optimization Using Artificial Intelligence and In-Cutter Sensing Data.*  
-    In: **SPE AI Symposium**.  
-    SPE-214468-MS.  
-    DOI: https://doi.org/10.2118/214468-MS
+    In: **SPE AI Symposium**. SPE-214468-MS.  
+    https://doi.org/10.2118/214468-MS
 
 ---
 
 ## Book Chapter
 
 - **Koulidis, A.**, & Ahmed, S. (2024)  
-  *Positive Displacement Motor Condition and Performance Prediction Using Surface and Downhole Sensor Data.*  
+  *Positive Displacement Motor Condition and Performance Prediction Using Surface and Downhole Sensor Data.* 10.5772/intechopen.114269 
 
 Achievements
 ------
