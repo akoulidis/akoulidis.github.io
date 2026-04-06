@@ -32,11 +32,7 @@ Recent Publications
 
 2. Bruhn, D., Abels, H., Barnhoorn, A., ..., **Koulidis, A.**, et al. (2026)  
    *An Urban Energy Laboratory for Monitoring and Better Understanding of Subsurface Processes Related to Low-Enthalpy Geothermal Heat Production – UrbEnLab.*  
-   Scientific Drilling  
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+   Scientific Drilling. https://doi.org/10.5194/sd-35-83-2026  
 
 Achievements
 ------
