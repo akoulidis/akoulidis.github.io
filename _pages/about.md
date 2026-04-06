@@ -36,8 +36,8 @@ Recent Publications
 
 Achievements
 ------
-1. Finalist, **ADIPEC Awards – Digital Transformation Project of the Year** (2020)  
-2. Dean’s Award for Outstanding Academic Performance and Contributions (2022)  
+1. Dean’s Award for Outstanding Academic Performance and Contributions (2022)  
+2. Finalist, **ADIPEC Awards – Digital Transformation Project of the Year** (2020)  
 3. Finalist, **Young Vision Award – Wintershall & Gazprom Competition** (2017)  
 
 
