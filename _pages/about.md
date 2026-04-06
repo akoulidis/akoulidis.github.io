@@ -83,18 +83,15 @@ Selected Publications
    **Europe Geothermal Congress**
 
 8. **Koulidis, A.**, Skenderija, J., & Ahmed, S. (2023)  
-   *Drilling Monitoring System: Mud Motor Condition and Performance Evaluation.*  
-   In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213422-MS.  
+   *Drilling Monitoring System: Mud Motor Condition and Performance Evaluation.* In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213422-MS.  
    https://doi.org/10.2118/213422-MS
 
 9. Skenderija, J., **Koulidis, A.**, Sanchez, D., & Ahmed, S. (2023)  
-   *Advanced Hole Cleaning in Horizontal Wells: Experimental Investigation Supported by a Downhole Clamp-on Tool.*  
-   In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213675-MS.  
+   *Advanced Hole Cleaning in Horizontal Wells: Experimental Investigation Supported by a Downhole Clamp-on Tool.* In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213675-MS.  
    https://doi.org/10.2118/213675-MS
 
 10. **Koulidis, A.**, & Ahmed, S. (2023)  
-    *Advisory System for Drilling Optimization Using Artificial Intelligence and In-Cutter Sensing Data.*  
-    In: **SPE AI Symposium**. SPE-214468-MS.  
+    *Advisory System for Drilling Optimization Using Artificial Intelligence and In-Cutter Sensing Data.* In: **SPE AI Symposium**. SPE-214468-MS.  
     https://doi.org/10.2118/214468-MS
 
 ---
