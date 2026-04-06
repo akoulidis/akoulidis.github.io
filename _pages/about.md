@@ -56,8 +56,8 @@ Experimental Setups and Research Infrastructure
 
 - **Computer Vision Monitoring Systems**: Implemented non-invasive, camera-based monitoring and edge-computing solutions for real-time drilling analysis
   
-Selected Journal Articles AND CONFERENCE PAPERS
-
+Selected Journal Articles AND Conference Proceedings
+======
 1. **Koulidis, A.**, Bloemendal, M., & Vardon, P. J. (2026)  
    *Experimental Assessment of Sealing Integrity of Grouts and Clay Pellets Under Thermal Cycles Representative of HT-ATES Operation.*  
    **Geothermal Energy**. https://doi.org/10.1186/s40517-026-00374-9
