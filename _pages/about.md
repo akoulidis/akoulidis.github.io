@@ -19,7 +19,7 @@ Education
 **Ph.D., Energy Resources and Petroleum Engineering**  
 King Abdullah University of Science and Technology (KAUST), Saudi Arabia  
 2018 – 2023  
-Supervisor: Prof. Shehab Ahmed  
+Supervisor: Prof. Shehab Ahmed (Program Chair Electrical and Computer Engineering)
 
 **M.Sc., Petroleum Engineering**  
 Montanuniversität Leoben, Austria  
