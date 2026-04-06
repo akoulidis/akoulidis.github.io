@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-
 ### Delft University of Technology <span style="float:right;">September 2023 – present</span>
 
 **Master’s program in Sustainable Energy Technology:**  
