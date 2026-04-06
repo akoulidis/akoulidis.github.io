@@ -5,5 +5,5 @@ collection: portfolio
 teaser: /assets/images/Figure 12d.png
 ---
 <p align="center">
-  <img src="/assets/images/Figure 12d.png">
+  <img src="images/Figure 12d.png">
 </p>
