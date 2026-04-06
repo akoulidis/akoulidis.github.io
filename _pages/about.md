@@ -56,9 +56,7 @@ Experimental Setups and Research Infrastructure
 
 - **Computer Vision Monitoring Systems**: Implemented non-invasive, camera-based monitoring and edge-computing solutions for real-time drilling analysis
   
-Selected Publications
-======
-##Journal Articles
+Selected Journal Articles AND CONFERENCE PAPERS
 
 1. **Koulidis, A.**, Bloemendal, M., & Vardon, P. J. (2026)  
    *Experimental Assessment of Sealing Integrity of Grouts and Clay Pellets Under Thermal Cycles Representative of HT-ATES Operation.*  
@@ -84,43 +82,17 @@ Selected Publications
    *Experimental Investigation of Rock Cutting Process and Derivation of 3D Spatial Distribution of the Formation Strength Using In-Cutter Sensing.*  
    **Journal of Petroleum Exploration and Production Technology**, 14:365–380. https://doi.org/10.1007/s13202-023-01712-4
 
-Conference Papers
-======
-1. Daniilidis, A., Abels, H., ..., **Koulidis, A.**, et al. (2026)  
-   *Delft Subsurface Energy Laboratory – DSUEL: update on research efforts.*  
-   **World Geothermal Congress**
-
-2. **Koulidis, A.**, Laumann, S., & Vardon, P. J. (2026)  
+7. **Koulidis, A.**, Laumann, S., & Vardon, P. J. (2026)  
    *Comprehensive Assessment of the DEL-GT-02 Drilling Operations at TU Delft Campus.*  
    **World Geothermal Congress**
-
-3. **Koulidis, A.**, van der Schans, M., Bloemendal, M., & Vardon, P. J. (2026)  
-   *Drilling Challenges and Solutions for HT-ATES Systems in Deep Aquifers.*  
-   **World Geothermal Congress**
-
-4. Bloemendal, M., **Koulidis, A.**, & Hashemi, A., van der Schans, M., et al. (2026)  
-   *High-Temperature Aquifer Thermal Energy Storage (HT-ATES) system for research development and demonstration in Delft (NL).*  
-   **World Geothermal Congress**
-
-5. Vardon, P., Abels, H., Bloemendal, M., ..., **Koulidis, A.**, et al. (2025)  
-   *A Deep Monitoring Borehole for Subsurface Processes in Low-Enthalpy Sedimentary Geothermal Systems.*  
-   **Europe Geothermal Congress**
-
-6. **Koulidis, A.**, Bloemendal, M., & Vardon, P. J. (2025)  
-   *Long-Term Thermal Heating and Cooling: An Experimental Analysis of Grouting Behaviour for HT-ATES Systems.*  
-   **Europe Geothermal Congress**
-
-7. Bloemendal, M., **Koulidis, A.**, & Hashemi, A., van der Schans, M., et al. (2025)  
-   *High-Temperature Aquifer Thermal Energy Storage (HT-ATES) system for research development and demonstration on the TU Delft campus.*  
-   **Europe Geothermal Congress**
 
 8. **Koulidis, A.**, Skenderija, J., & Ahmed, S. (2023)  
    *Drilling Monitoring System: Mud Motor Condition and Performance Evaluation.* In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213422-MS.  
    https://doi.org/10.2118/213422-MS
 
 9. Skenderija, J., **Koulidis, A.**, Sanchez, D., & Ahmed, S. (2023)  
-   *Advanced Hole Cleaning in Horizontal Wells: Experimental Investigation Supported by a Downhole Clamp-on Tool.* In: **SPE Middle East Oil, Gas and Geosciences Show**. SPE-213675-MS.  
-   https://doi.org/10.2118/213675-MS
+   *Advanced Hole Cleaning in Horizontal Wells: Experimental Investigation Supported by a Downhole Clamp-on Tool.* In: **SPE Middle East Oil, Gas and Geosciences Show**. 
+   SPE 213675-MS. https://doi.org/10.2118/213675-MS
 
 10. **Koulidis, A.**, & Ahmed, S. (2023)  
     *Advisory System for Drilling Optimization Using Artificial Intelligence and In-Cutter Sensing Data.* In: **SPE AI Symposium**. SPE-214468-MS.  
