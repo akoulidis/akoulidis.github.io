@@ -28,7 +28,31 @@ Montanuniversität Leoben, Austria
 **M.Eng., Mineral Resources Engineering**  
 Technical University of Crete, Greece  
 2009 – 2014  
+---
+Achievements
+------
+1. Dean’s Award for Outstanding Academic Performance and Contributions (2022)  
+2. Finalist, **ADIPEC Awards – Digital Transformation Project of the Year** (2020)  
+3. Finalist, **Young Vision Award – Wintershall & Gazprom Competition** (2017)  
 
+Experimental Setups and Research Infrastructure
+------
+
+- **Scaled Drilling Rig**: Designed and developed a laboratory-scale system replicating real drilling operations  
+
+- **In-Cutter Force Sensing Technology**: Developed novel sensing systems to measure cutting and frictional forces at the cutter scale  
+
+- **Filtration Apparatus**: Built experimental setups to evaluate filtration behavior in unconsolidated formations  
+
+- **Flow Loop System**: Designed customized flow loops to reproduce conditions in horizontal wells  
+
+- **Well Integrity Testing Apparatus**: Developed systems to assess sealing performance of annular materials under thermal cycling  
+
+- **Core Flooding Systems**: Designed and automated experimental setups to study multiphase flow and bacterial growth in subsurface systems  
+
+- **Return Permeability Device**: Created automated apparatus for evaluating well development and permeability recovery  
+
+- **Computer Vision Monitoring Systems**: Implemented non-invasive, camera-based monitoring and edge-computing solutions for real-time drilling analysis  
 Selected Publications
 ======
 ## Journal Articles
@@ -106,28 +130,3 @@ Selected Publications
 - **Koulidis, A.**, & Ahmed, S. (2024)  
   *Positive Displacement Motor Condition and Performance Prediction Using Surface and Downhole Sensor Data.* 10.5772/intechopen.114269 
 
-Achievements
-------
-1. Dean’s Award for Outstanding Academic Performance and Contributions (2022)  
-2. Finalist, **ADIPEC Awards – Digital Transformation Project of the Year** (2020)  
-3. Finalist, **Young Vision Award – Wintershall & Gazprom Competition** (2017)  
-
-
-Experimental Setups and Research Infrastructure
-------
-
-- **Scaled Drilling Rig**: Designed and developed a laboratory-scale system replicating real drilling operations  
-
-- **In-Cutter Force Sensing Technology**: Developed novel sensing systems to measure cutting and frictional forces at the cutter scale  
-
-- **Filtration Apparatus**: Built experimental setups to evaluate filtration behavior in unconsolidated formations  
-
-- **Flow Loop System**: Designed customized flow loops to reproduce conditions in horizontal wells  
-
-- **Well Integrity Testing Apparatus**: Developed systems to assess sealing performance of annular materials under thermal cycling  
-
-- **Core Flooding Systems**: Designed and automated experimental setups to study multiphase flow and bacterial growth in subsurface systems  
-
-- **Return Permeability Device**: Created automated apparatus for evaluating well development and permeability recovery  
-
-- **Computer Vision Monitoring Systems**: Implemented non-invasive, camera-based monitoring and edge-computing solutions for real-time drilling analysis  
