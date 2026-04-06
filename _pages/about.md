@@ -28,7 +28,7 @@ Montanuniversität Leoben, Austria
 **M.Eng., Mineral Resources Engineering**  
 Technical University of Crete, Greece  
 2009 – 2014  
----
+
 Achievements
 ======
 1. Dean’s Award for Outstanding Academic Performance and Contributions (2022)  
