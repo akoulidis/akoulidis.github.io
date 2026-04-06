@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Alexis Koulidis Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "I am currently a postdoctoral researcher at Delft University of Technology. Research scientist and technology-driven subsurface engineer with 8 years of international experience in integrating engineering knowledge, experimental/computational design, analytical modeling, and data analysis to deliver solutions in drilling engineering and subsurface energy systems. Published 24 journal and technical papers, 1 book chapter and a finalist in the ADIPEC awards. Scientific committee member of the ICDP Workshop UrbEnLab at TU Delft to support a 4.5 km monitoring well."
+  #bio              : "I am currently a postdoctoral researcher at Delft University of Technology. Research scientist and technology-driven subsurface engineer with 8 years of international experience in integrating engineering knowledge, experimental/computational design, analytical modeling, and data analysis to deliver solutions in drilling engineering and subsurface energy systems. Published 24 journal and technical papers, 1 book chapter and a finalist in the ADIPEC awards. Scientific committee member of the ICDP Workshop UrbEnLab at TU Delft to support a 4.5 km monitoring well."
   location         : "Delft, the Netherlands"
   employer         : "Delft University of Technology"
   uri              : # URL
