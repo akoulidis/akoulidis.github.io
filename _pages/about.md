@@ -57,7 +57,7 @@ Experimental Setups and Research Infrastructure
 - **Computer Vision Monitoring Systems**: Implemented non-invasive, camera-based monitoring and edge-computing solutions for real-time drilling analysis  
 Selected Publications
 
-## Journal Articles
+Journal Articles
 ======
 1. **Koulidis, A.**, Bloemendal, M., & Vardon, P. J. (2026)  
    *Experimental Assessment of Sealing Integrity of Grouts and Clay Pellets Under Thermal Cycles Representative of HT-ATES Operation.*  
@@ -83,8 +83,8 @@ Selected Publications
    *Experimental Investigation of Rock Cutting Process and Derivation of 3D Spatial Distribution of the Formation Strength Using In-Cutter Sensing.*  
    **Journal of Petroleum Exploration and Production Technology**, 14:365–380. https://doi.org/10.1007/s13202-023-01712-4
 
-## Conference Papers
-
+Conference Papers
+======
 1. Daniilidis, A., Abels, H., ..., **Koulidis, A.**, et al. (2026)  
    *Delft Subsurface Energy Laboratory – DSUEL: update on research efforts.*  
    **World Geothermal Congress**
@@ -127,8 +127,8 @@ Selected Publications
 
 ---
 
-## Book Chapter
-
+Book Chapter
+======
 - **Koulidis, A.**, & Ahmed, S. (2024)  
   *Positive Displacement Motor Condition and Performance Prediction Using Surface and Downhole Sensor Data.* 10.5772/intechopen.114269 
 
