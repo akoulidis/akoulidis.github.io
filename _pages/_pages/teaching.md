@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching & Supervision
+## Teaching
 
 ### Delft University of Technology <span style="float:right;">September 2023 – present</span>
 
@@ -17,7 +17,6 @@ author_profile: true
 **Bachelor’s and Master’s program in Earth, Climate and Technology:**  
 - Well engineering in subsurface storage, Q2  
 - Well engineering in Geo-minor, Q2
-- 
 ---
 
 ## Guest Lectures & Training
