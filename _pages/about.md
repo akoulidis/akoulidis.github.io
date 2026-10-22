@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Alexis Koulidis is a Postdoctoral Researcher at Delft University of Technology in the Netherlands. He received his Ph.D. in Energy Resources and Petroleum Engineering from King Abdullah University of Science and Technology (KAUST) in 2023. <br/><img src='/images/phd.jpg'>
+Dr. Alexis Koulidis is an Assistant Professor in Intelligent Drilling and Completion within the Department of Chemical and Petroleum Engineering at the Schulich School of Engineering, University of Calgary. Prior to joining the University of Calgary, he served as a Postdoctoral Researcher at Delft University of Technology (2023–2026). He received his Ph.D. in Energy Resources and Petroleum Engineering from King Abdullah University of Science and Technology (KAUST) in 2023. <br/><img src='/images/phd.jpg'>
 
 His research focuses on drilling engineering for subsurface energy systems, with particular emphasis on drilling mechanics, well integrity, wellbore strengthening, and the development of advanced downhole tools. His work combines large-scale experimental investigations, novel sensing technologies, and data-driven approaches, including artificial intelligence and camera-based drilling analytics. 
 
@@ -27,9 +27,9 @@ Supervisor: Prof. Shehab Ahmed (Program Chair Electrical and Computer Engineerin
 Montanuniversität Leoben, Austria  
 2015 – 2017  
 
-**M.Eng., Mineral Resources Engineering**  
+**Diploma (5-year Integrated Master's Degree), Mineral Resources Engineering**  
 Technical University of Crete, Greece  
-2009 – 2014  
+2009 – 2015  
 
 Achievements
 ======
