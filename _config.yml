@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Alexis Koulidis / Portfolio"
 title_separator          : "-"
 name                     : &name "Alexis Koulidis"
-description              : &description "Postdoctoral Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Assistant Professor"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://akoulidis.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 #og_image: /images/preview.png                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 og_image: https://akoulidis.github.io/images/preview.png
@@ -28,10 +28,10 @@ author:
   name             : "Alexis Koulidis, Ph.D."
   pronouns         : # example: "she/her"  
   #bio              : "I am currently a postdoctoral researcher at Delft University of Technology. Research scientist and technology-driven subsurface engineer with 8 years of international experience in integrating engineering knowledge, experimental/computational design, analytical modeling, and data analysis to deliver solutions in drilling engineering and subsurface energy systems. Published 24 journal and technical papers, 1 book chapter and a finalist in the ADIPEC awards. Scientific committee member of the ICDP Workshop UrbEnLab at TU Delft to support a 4.5 km monitoring well."
-  location         : "Delft, the Netherlands"
-  employer         : "Delft University of Technology"
+  location         : "Calgary, Canada"
+  employer         : "University of Calgary"
   #uri              : # URL
-  email            : "k [dot] a [dot] koulidis [at] tudelft [dot] nl" 
+  email            : "alexis [dot] koulidis [at] ucalgary [dot] ca" 
 
   # Academic websites
   academia         : # URL
