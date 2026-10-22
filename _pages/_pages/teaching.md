@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Delft University of Technology <span style="float:right;">September 2023 – present</span>
+### Delft University of Technology <span style="float:right;">September 2023 – September 2026</span>
 
 **Master’s program in Sustainable Energy Technology:**  
-Development and delivery of lectures and assignments:
+Being part of the teaching team. Developmented and delivered of lectures and assignments:
 - Renewable energy, Q1: Energy use in buildings, geothermal systems, aquathermal energy, aquifer thermal energy storage (ATES), and energy distribution    
 - Heat storage, Q2: Aquifer, pit, and tank thermal energy storage systems   
 - Heating and cooling technologies from near-ambient temperature sources, Q3: Aquathermal energy, sensor installation, data acquisition, and data processing 
