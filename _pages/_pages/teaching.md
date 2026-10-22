@@ -8,7 +8,7 @@ author_profile: true
 ### Delft University of Technology <span style="float:right;">September 2023 – September 2026</span>
 
 **Master’s program in Sustainable Energy Technology:**  
-Being part of the teaching team. Developmented and delivered of lectures and assignments:
+Being part of the teaching team. Developed and delivered lectures and assignments on:
 - Renewable energy, Q1: Energy use in buildings, geothermal systems, aquathermal energy, aquifer thermal energy storage (ATES), and energy distribution    
 - Heat storage, Q2: Aquifer, pit, and tank thermal energy storage systems   
 - Heating and cooling technologies from near-ambient temperature sources, Q3: Aquathermal energy, sensor installation, data acquisition, and data processing 
@@ -20,9 +20,9 @@ Being part of the teaching team. Developmented and delivered of lectures and ass
 ---
 ### King Abdullah University of Science and Technology <span style="float:right;">August 2019 – November 2022</span>
 
-Developed and utilized a dynamic drilling simulator (PAYZONE) for training and research.  
-Five universities have utilized it, with up to 70 licenses functioning per day.  
-Drilling Engineering class in the Master’s program in Energy Resources and Petroleum Engineering.
+- Developed and utilized a dynamic drilling simulator (PAYZONE) for training and research
+- Five universities have utilized it, with up to 70 licenses functioning per day
+- Drilling Engineering class in the Master’s program in Energy Resources and Petroleum Engineering
 
 ---
 ### Guest Lectures & Training <span style="float:right;">August 2019 – November 2022</span>
