@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-### University of Calgary <span style="float:right;">October 2026 – present 2022</span>
+### University of Calgary <span style="float:right;">October 2026 – present</span>
 
 **Undergraduate program in Oil & Gas Engineering:**  
 - Drilling and Completions, ENPE 415 - Winter 2027
